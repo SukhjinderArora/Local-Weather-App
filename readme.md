@@ -1,6 +1,6 @@
 # [Local Weather App](https://codepen.io/Sukhjinder-arora/full/QQVoZq/)
 
-Visit [Here](https://codepen.io/Sukhjinder-arora/full/QQVoZq/) to generate a random quote.
+Visit [Here](https://codepen.io/Sukhjinder-arora/full/QQVoZq/) to get local weather information.
 
 ## About
 Local Weather App is a online weather app.
