@@ -1,0 +1,49 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+body{
+    background-color: whitesmoke;
+    color: #292932;
+ 
+    background: url('https://drive.google.com/uc?id=11M4ipoFSORfSZrdNry09EjQEV3qmdQOP') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+div{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: 1px 1px 8px rgba(150, 150, 150, 1);
+  
+}
+#tempUnit {
+    color: blue;
+    cursor: pointer;
+  text-decoration: underline;
+}
+#description{
+    text-transform: capitalize;
+}
+#title{
+    font-size: 5rem;
+}
+@media only screen and (min-width: 768px) {
+
+
+#city{
+    font-size: 4rem;
+}
+h3{
+    font-size: 2.5rem;
+}
+}
+.main{
+    color: aliceblue;
+    margin-top: 8%;
+}
+.data{
+    margin-top: 5%;
+}
